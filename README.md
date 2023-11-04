@@ -1,5 +1,5 @@
 
-# nanoGPT
+# nanoGPT (https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
 ![nanoGPT](assets/nanogpt.jpg)
 
